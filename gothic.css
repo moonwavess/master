@@ -1,0 +1,71 @@
+ .ixora2 {
+    background: url(https://i.ibb.co/GF7Sk4s/ixora-table.png);
+    background-color: #000;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    width: 600px;
+    margin: auto;
+    padding: 50px 75px 650px;
+    border-radius: 5px 25px;
+    box-sizing: border-box
+  }
+
+  .ixora2bx {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 25px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(237, 253, 255, 0.25);
+    font-family: 'Times';
+    font-size: 10px;
+    color: #edfdff;
+    text-transform: lowercase;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 120%
+  }
+
+  .ixora2bx b {
+    color: #db3b3b;
+    text-transform: uppercase
+  }
+
+  .ixora2bx u {
+    font-weight: bold;
+    text-decoration-color: #db3b3b
+  }
+
+  .ixora2bx a {
+    font-weight: bold;
+    color: #bc2727;
+    text-decoration: none
+  }
+
+  .ixora2tg {
+    width: 600px;
+    margin: auto;
+    font-family: 'Arial';
+    font-size: 7px;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: inherit;
+    text-transform: lowercase;
+    text-align: center;
+    line-height: 100%;
+    letter-spacing: 2.5px
+  }
+
+  .ixora2tg a {
+    color: #db3b3b;
+    text-decoration: none
+  }
+    .ixora7ps-h1 {
+    opacity: .25;
+    padding-left: 25px;
+    margin-bottom: 25px;
+    font-size: 200%;
+    font-weight: bold;
+    font-style: italic;
+    color: #FF2D00;
+    line-height: 80%;
+  }
